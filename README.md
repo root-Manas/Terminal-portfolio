@@ -43,7 +43,7 @@ You can Configure your details in config.json file.
     ]
   ],
   "colors": {
-      ...
+
   }
 }
 ```
