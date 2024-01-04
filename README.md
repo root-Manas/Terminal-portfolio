@@ -65,5 +65,6 @@ npm install #This installs package.json dependencies
 ```
 Start the server
 ```shell
-npm run dev #This starts the vite server but locally. When in production use npm run build on Vercel or Netlify
+npm run dev 
 ```
+#This starts the vite server but locally. When in production use npm run build on Vercel or Netlify
