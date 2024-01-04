@@ -1,0 +1,67 @@
+{
+  "ascii": [
+    "#######  #######  ######   #     #  ###  #     #     #     #       ",
+    "   #     #        #     #  ##   ##   #   ##    #    # #    #       ",
+    "   #     #        #     #  # # # #   #   # #   #   #   #   #       ",
+    "   #     #####    ######   #  #  #   #   #  #  #  #     #  #       ",
+    "   #     #        #   #    #     #   #   #   # #  #######  #       ",
+    "   #     #        #    #   #     #   #   #    ##  #     #  #       ",
+    "   #     #######  #     #  #     #  ###  #     #  #     #  ####### "
+  ],
+  "title":    "Termianl",
+  "username": "visitor",
+  "hostname": "asimov",
+  "password": "Manasraj",
+  "social": {
+    "email": "dev.manas@protonmail",
+    "github": "root-Manas",
+    "linkedin": "manasraj-singh"
+  },
+"aboutGreeting": "Hi there fella, I am Manasraj Singh, a Third Year Engineering<br>Student majoring in Electronics & Telecommunication Engineering.<br> I am a Security researcher and a bounty hunter also the Head of <br> Outreach at GDSC TCET. Where lead and manage a team of 10 individuals.<br>We host, collobrate and manage events and workshops for the community.<br>(sudo=Manasraj)",
+  
+"projects": [
+    [
+      "Tweecord",
+      "A Discord bot that uses twitter api to fetch and post latest tweets in your server ",
+      "https://github.com/root-Manas/Tweecord"
+    ],
+    [
+      "Personal Blog",
+      "Techical blog's from my CTF expereience.",
+      "https://novihack.hashnode.dev/"
+    ],
+    [
+      "Narrative(UD)",
+      "Narrative is a mobile-based social media app that revolutionizes the news and journalism industry.",
+      "https://github.com/Narrative-org/Readme"
+    ],
+
+    [
+      "HelixGaurd(UD)",
+      "A DNA-Based Media Encryption API tool, a state-of-the-art solution designed to fortify multimedia security.",
+      "https://github.com/HelixGaurd/Readme"
+    ]
+],
+  "colors": {
+    "background": "#121e26",
+    "banner": "#dce7f3",
+    "border": {
+      "visible": false,
+      "color": "#a2efab"
+    },
+    "prompt": {
+      "default": "#A5A7A7",
+      "user": "#FE6BC9",
+      "host": "#70FDFF",
+      "input": "#FF7685"
+    },
+    "link": {
+      "text": "#B6AAEE",
+      "highlightColor": "#FFADE2",
+      "highlightText": "#0C0623"
+    },
+    "commands": {
+      "textColor": "#FD9BDB"
+    }
+  }
+}
