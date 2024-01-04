@@ -4,7 +4,6 @@ import command from '../config.json' assert {type: 'json'};
   const style = document.createElement('style')
   const head = document.head
   const background = `body {background: ${command.colors.background}}`
-  const foreground = `body {color: ${command.colors.foreground}}`
   const inputBackground = `input {background: ${command.colors.background}}`
   const inputForeground = `input {color: ${command.colors.prompt.input}}`
   const outputColor = `.output {color: ${command.colors.prompt.input}}`
@@ -39,7 +38,6 @@ import command from '../config.json' assert {type: 'json'};
   }
 
   style.sheet.insertRule(background)
-  style.sheet.insertRule(foreground)
   style.sheet.insertRule(inputBackground)
   style.sheet.insertRule(inputForeground)
   style.sheet.insertRule(outputColor)
